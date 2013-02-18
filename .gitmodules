@@ -1,0 +1,15 @@
+[submodule "node_modules/pyksdl2"]
+	path = node_modules/pyksdl2
+	url = https://github.com/pyokagan/node-pyksdl2.git
+[submodule "node_modules/pykgl"]
+	path = node_modules/pykgl
+	url = https://github.com/pyokagan/node-pykgl.git
+[submodule "node_modules/pykstbi"]
+	path = node_modules/pykstbi
+	url = https://github.com/pyokagan/node-pykstbi.git
+[submodule "node_modules/gl-matrix"]
+	path = node_modules/gl-matrix
+	url = https://github.com/toji/gl-matrix.git
+[submodule "node_modules/dcl"]
+	path = node_modules/dcl
+	url = https://github.com/uhop/dcl.git

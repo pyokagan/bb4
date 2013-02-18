@@ -1,0 +1,28 @@
+{
+    "name": "bb4",
+    "main": "main",
+    "version": "0.0.1",
+    "description": "Game engine for web browser and node",
+    "author": "Paul Tan <pyokagan@gmail.com>",
+    "keywords": ["game", "3d"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pyokagan/bb4.git"
+    },
+    "engines": {
+        "node": ">=0.9.8"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/pyokagan/bb4.git/blob/master/LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "pyksdl2": "*",
+        "pykgl": "*",
+        "pykstbi": "*",
+        "dcl": "*",
+        "gl-matrix": "2.1.0"
+    }
+}
